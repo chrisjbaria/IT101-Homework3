@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    
+    <title>IT-101 Homework 3</title>
   </head>
   <body>
     <h1 title>Christian Baria</h1>
