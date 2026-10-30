@@ -2,10 +2,11 @@
 
 <html>
   <head>
-    <title>Christian Baria</title>
+    
   </head>
   <body>
-    <h1>Brief Bio</h1>
+    <h1 title>Christian Baria</h1>
+    <h2>Brief Bio</h2>
     <p>Physically active with creative imagination</p>
     <p>Enjoys alone time</p>
     <a href='http://www.w3schools.com'>Web tutorials</a>
